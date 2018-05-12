@@ -1,4 +1,8 @@
 _repo: Sodan-uhatessa-Ilveilys-yhdessa-naytoksessa_47401
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hahnsson, Sofia Theodolinda
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5391
     wikipedia: http://fi.wikipedia.org/wiki/Theodolinda_Hahnsson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47401#Sodan-uhatessa-Ilveilys-yhdessa-naytoksessa
 gutenberg_issued: '2014-11-19'
 gutenberg_type: Text
 identifiers:
